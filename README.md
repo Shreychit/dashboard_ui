@@ -1,7 +1,7 @@
 <h1>UserBoard Project</h1>
 
 <h2>Overview</h2>
-UserBoard is a frontend web application designed to display a list of users with details fetched from an external API. The application is built using React, React-Bootstrap, and Axios for API requests. It features a fixed-top navigation bar, sidebar, and a table displaying user information.
+UserBoard is a frontend web application designed to display a list of users. The application is built using React, React-Bootstrap. It features a fixed-top navigation bar, sidebar, and a table displaying user information.
 
 <h2>Features</h2>
 - Fetch and Display Users: Fetches user data from JSONPlaceholder API and displays it in a responsive table.<br />
@@ -18,7 +18,4 @@ UserBoard is a frontend web application designed to display a list of users with
 - ListOfUser: The component responsible for fetching user data and passing it to UserList.<br />
 - UserList: The component that displays user data in a table.
 
-<h3>Live Preview: </h3>
-
-https://userboarddashboard.onrender.com/
 
